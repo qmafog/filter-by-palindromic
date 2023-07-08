@@ -1,5 +1,6 @@
 ﻿using NUnit.Framework;
 using static FilterByPalindromicTask.ArrayExtension;
+#pragma warning disable
 
 namespace FilterByPalindromicTask.Tests
 {
